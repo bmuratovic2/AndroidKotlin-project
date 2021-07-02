@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kvizovi"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="Kvizovi" />
+    <item
+        android:id="@+id/predmeti"
+        android:icon="@android:drawable/stat_sys_download"
+        android:title="Unos studenta" />
+    <item
+        android:id="@+id/predajKviz"
+        android:icon="?attr/actionModeCloseDrawable"
+        android:title="Predaj kviz" />
+    <item
+        android:id="@+id/zaustaviKviz"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="Zaustavi kviz" />
+</menu>
